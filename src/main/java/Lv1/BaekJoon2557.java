@@ -1,3 +1,5 @@
+package Lv1;
+
 public class BaekJoon2557 {
     /*
     * 문제

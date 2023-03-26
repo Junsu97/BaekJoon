@@ -1,4 +1,4 @@
-package Lv3;
+package BOJ8393;
 import java.util.Scanner;
 
 /*
@@ -10,7 +10,7 @@ n이 주어졌을 때, 1부터 n까지 합을 구하는 프로그램을 작성�
 
 출력
 1부터 n까지 합을 출력한다.*/
-public class BaekJoon8393 {
+public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int x = in.nextInt();

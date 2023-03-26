@@ -1,4 +1,4 @@
-package Lv3;
+package BOJ10950;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ import java.util.Scanner;
 출력
 각 테스트 케이스마다 A+B를 출력한다.
 * * */
-public class BaekJoon10950 {
+public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int T = in.nextInt();

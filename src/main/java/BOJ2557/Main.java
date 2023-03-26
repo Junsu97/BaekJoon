@@ -1,6 +1,6 @@
-package Lv1;
+package BOJ2557;
 
-public class BaekJoon2557 {
+public class Main {
     /*
     * 문제
 Hello World!를 출력하시오.

@@ -1,8 +1,8 @@
-package Lv1;
+package BOJ1008;
 
 import java.util.Scanner;
 
-public class BaekJoon1008 {
+public class Main {
     /*
     * 문제
 두 정수 A와 B를 입력받은 다음, A/B를 출력하는 프로그램을 작성하시오.

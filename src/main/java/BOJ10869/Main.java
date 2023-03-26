@@ -1,4 +1,4 @@
-package Lv1;
+package BOJ10869;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ import java.util.Scanner;
 출력
 첫째 줄에 A+B, 둘째 줄에 A-B, 셋째 줄에 A*B, 넷째 줄에 A/B, 다섯째 줄에 A%B를 출력한다.
 * */
-public class BaekJoon10869 {
+public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

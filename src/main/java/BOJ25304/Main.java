@@ -1,4 +1,4 @@
-package Lv3;
+package BOJ25304;
 
 /*
 * 준원이는 저번 주에 살면서 처음으로 코스트코를 가 봤다. 정말 멋졌다. 그런데, 몇 개 담지도 않았는데 수상하게 높은 금액이 나오는 것이다!
@@ -27,7 +27,7 @@ $b$가 공백을 사이에 두고 주어진다.
 
 import java.util.Scanner;
 
-public class BaekJoon25304 {
+public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int X = in.nextInt();//영수증에 적힌 총 금액

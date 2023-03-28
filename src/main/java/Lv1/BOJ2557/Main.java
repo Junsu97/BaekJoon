@@ -1,4 +1,4 @@
-package BOJ2557;
+package Lv1.BOJ2557;
 
 public class Main {
     /*

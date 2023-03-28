@@ -1,4 +1,4 @@
-package BOJ2739;
+package Lv3.BOJ2739;
 import java.util.Scanner;
 
 /*문제

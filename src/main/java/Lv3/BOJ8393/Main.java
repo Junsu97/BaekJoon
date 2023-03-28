@@ -1,4 +1,4 @@
-package BOJ8393;
+package Lv3.BOJ8393;
 import java.util.Scanner;
 
 /*

@@ -1,4 +1,4 @@
-package BOJ15552;
+package Lv3.BOJ15552;
 
 import java.io.*;
 

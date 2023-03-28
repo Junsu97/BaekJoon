@@ -1,4 +1,4 @@
-package BOJ25314;
+package Lv3.BOJ25314;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

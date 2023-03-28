@@ -1,4 +1,4 @@
-package BOJ11021;
+package Lv3.BOJ11021;
 
 import java.util.Scanner;
 

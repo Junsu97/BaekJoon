@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package Lv3.BOJ2439;
 
 import java.util.Scanner;
@@ -20,13 +19,4 @@ public class Main {
         }
     }
 }
-=======
-package Lv3.BOJ2439;
 
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("ddddddddd");
-        System.out.println("ddddddddd");
-    }
-}
->>>>>>> f00731a (.)

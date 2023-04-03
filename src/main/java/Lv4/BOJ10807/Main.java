@@ -19,13 +19,13 @@ public class Main {
         int v = 0;
         int[] arr = new int[N];
 
-        for(int i = 0; i < N; i++){
-            int a = in.nextInt();
-            arr[i] = a;
-        }
-        int a = in.nextInt();
         for(int i = 0; i < arr.length; i++){
-            if(arr[i] == a){
+            N = in.nextInt();
+            arr[i] = N;
+        }
+        N = in.nextInt();
+        for(int i = 0; i < arr.length; i++){
+            if(arr[i] == N){
                 v++;
             }
         }

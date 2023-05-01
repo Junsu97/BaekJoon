@@ -8,7 +8,6 @@ import java.util.Scanner;
 * */
 public class Main {
 
-
     // 킹 퀸 룩 비숍 나이트 폰이 필요로 하는 수가 다름으로 구분하기 위한 메소드
     public static int whoAmI(int index){
 

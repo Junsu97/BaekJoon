@@ -31,7 +31,7 @@ public class Main {
             System.out.print(max * 100);
         } else if (count == 1) {
             System.out.print(1000 + num * 100);
-        } else if (count == 2) {
+        } else if (count >= 2) {
             System.out.print(10000 + num * 1000);
         }
     }

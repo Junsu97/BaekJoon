@@ -21,7 +21,6 @@ public class Score implements Comparable<Score>{
         if(this.english != o.english){
             return o.english - this.english;
         }
-
         return o.math - this.math;
     }
 }

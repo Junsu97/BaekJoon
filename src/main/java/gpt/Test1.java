@@ -19,6 +19,8 @@ public class Test1 {
                 value++;
                 arr[i][j] = value;
                 max = value;
+                maxRowIndex = i + 1;
+                maxColumnIndex = j + 1;
             }
         }
 

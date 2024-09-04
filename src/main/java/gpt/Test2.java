@@ -2,14 +2,15 @@ package gpt;
 
 public class Test2 {
 
-    public static int test(int N){
-        String str = String.valueOf(N);
-        StringBuffer sb = new StringBuffer(str);
-        int answer = Integer.parseInt(sb.reverse().toString());
-        return answer;
+    public static int test(int[] N){
+        String str = "";
+        for(int n : N)
+            str += n;
+        return Integer.parseInt(new StringBuffer(str).reverse().toString());
     }
 
     public static void main(String[] args) {
-        System.out.println(test(1234));
+        int arr[] =  {1,2,3,0,0};
+        System.out.println(test(arr));
     }
 }

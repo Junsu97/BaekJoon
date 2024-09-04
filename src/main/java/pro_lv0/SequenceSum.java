@@ -9,7 +9,6 @@ public class SequenceSum {
         for (int i = 0; i < num; i++) {
             answer[i] = startValue + i;
         }
-
         return answer;
     }
 

@@ -1,4 +1,4 @@
-package pro_lv2;
+package pro_lv0;
 
 public class CharacterMove {
     public int[] solution(String[] keyinput, int[] board) {

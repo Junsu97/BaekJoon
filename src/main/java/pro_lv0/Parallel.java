@@ -1,7 +1,4 @@
-package pro_lv2;
-
-import java.util.HashMap;
-import java.util.Map;
+package pro_lv0;
 
 public class Parallel {
     public int solution(int[][] dots) {
